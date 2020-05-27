@@ -32,7 +32,7 @@ var respecConfig = {
         company: "Logius/Centrum voor Standaarden",
         url: "https://www.logius.nl",
     }
-             ],
+    ],
     authors: [{
         name: "Pieter Hering",
         company: "Logius/Centrum voor Standaarden",
