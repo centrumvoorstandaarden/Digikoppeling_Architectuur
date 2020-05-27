@@ -4,6 +4,8 @@ var respecConfig = {
     subtitle: "Digikoppeling Architectuur",
     license: "cc-by",
     splitMDsections: true,
+    pubDomain: "Digikoppeling",
+    subExplanation: "De Architectuur Digikoppeling definieert de kaders – de gehanteerde principes en voorschriften - waarbinnen de berichtenuitwisseling op basis van Digikoppeling plaatsvindt en beschrijft de rol van intermediairs in de keten van berichtuitwisseling.",
     edDraftURI: "https://gitlab.com/logius/oidc/-/blob/master/NLGov-OpenIDConnect-profile.md",
     otherLinks: [{
         key: "Participate",
