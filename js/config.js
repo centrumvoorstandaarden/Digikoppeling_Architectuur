@@ -31,7 +31,11 @@ var respecConfig = {
         name: "Peter Haasnoot",
         company: "Logius/Centrum voor Standaarden",
         url: "https://www.logius.nl",
-    }
+    }, {
+        name: "Maarten van der Veen",
+        company: "Logius/Centrum voor Standaarden",
+        url: "https://www.logius.nl",
+       }
     ],
     authors: [{
         name: "Pieter Hering",
