@@ -36,6 +36,7 @@ actuele versie van ‘*Digikoppeling beveiligingsstandaarden en voorschriften’
 
 Digikoppeling is een standaard voor berichtuitwisseling waarmee overheden op een
 veilige manier gegevens met elkaar kunnen uitwisselen.
+**Een nieuwe toevoeging**
 
 ## Doel
 
